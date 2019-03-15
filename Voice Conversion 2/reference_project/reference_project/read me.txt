@@ -1,0 +1,14 @@
+Tweet collection and preprocessing
+
+Tweets should be collected using the twitter API. Tweet collection code is been given in python language.
+Following the collection tweets are to be preproceesed using preprocessing code written in java language.
+stop words removal,stemming are to be performed using the code given in python language.
+
+
+WEKA
+
+weka software to be downloaded from internet.
+use the data given in dataset file for input file.
+use it as training and testing data.
+apply the different classifiers and obtain result.
+generate the confusion matrix using python code.
